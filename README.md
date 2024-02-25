@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farwa Khan</h1>
-<h3 align="center">Tech enthusiast dedicated to crafting seamless software experiences for a better tomorrow.</h3>
+<h3 align="center">Passionate software engineer dedicated to building a better tomorrow through seamless software experiences and innovative solutions.</h3>
 
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"/>
 
