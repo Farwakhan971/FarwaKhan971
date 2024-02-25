@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Farwa Khan</h1>
 <h3 align="center">Tech enthusiast dedicated to crafting seamless software experiences for a better tomorrow.</h3>
 
-<br/>
-<br />
-
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farwakhan971&label=Profile%20views&color=0e75b6&style=flat" alt="farwakhan971" /> </p>
 
-<br />
-<br />
 
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **farwakhan061101@gmail.com**
-<br >
-<br />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
