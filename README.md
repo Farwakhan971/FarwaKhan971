@@ -24,16 +24,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farwakhan971&show_icons=true&locale=en&layout=compact" alt="farwakhan971" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farwakhan971&show_icons=true&locale=en" alt="farwakhan971" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farwakhan971&" alt="farwakhan971" /></p>
 
-
-<style>
-  /* CSS to remove underlines from anchor tags */
-  p.align-left a {
-    text-decoration: none;
-  }
-</style>
 
 
