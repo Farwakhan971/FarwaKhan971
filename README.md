@@ -46,7 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farwakhan971&show_icons=true&locale=en" alt="farwakhan971" /></p>
 
 <br/>
-<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farwakhan971&" alt="farwakhan971" /></p>
 
