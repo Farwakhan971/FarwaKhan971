@@ -27,10 +27,6 @@
     - Integrated a segmentation model, improving diagnostic precision by 70%.
     - Utilized the tflite_flutter package for accurate image analysis, reducing processing time by 43%.
 
-- 🎓 **Education**:
-  - **COMSATS University Islamabad, Vehari Campus (Sep 2020 – Jun 2024)**
-    - Bachelor of Science in Software Engineering, CGPA: 3.81/4.0
-
 - 📫 How to reach me: **farwakhan061101@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
