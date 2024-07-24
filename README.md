@@ -35,6 +35,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/7b9993e0-b12b-4f75-b235-4f9be71ece41" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/38670a67-6e9c-4482-817b-d38550bffa7e" alt="git" width="40" height="40"/>
 </p>
 
 
