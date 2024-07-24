@@ -1,4 +1,4 @@
-![vertopal com_nodejs-logo-svgrepo-com](https://github.com/user-attachments/assets/1116c084-43d4-44bd-9d53-066401bbb753)<h1 align="center">Hi 👋, I'm Farwa Khan</h1>
+<h1 align="center">Hi 👋, I'm Farwa Khan</h1>
 <h3 align="center">Passionate software engineer dedicated to building a better tomorrow through seamless software experiences and innovative solutions.</h3>
 
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"/>
