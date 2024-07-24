@@ -20,9 +20,6 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
  
-
-ertopal.com_nodejs-logo-svgrepo-com.svg…]()
-
 </p>
 
 <br />
