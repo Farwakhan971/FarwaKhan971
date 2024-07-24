@@ -34,8 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  ![nodejs-icon](https://github.com/user-attachments/assets/f8a97050-842f-4ee4-9992-ab27cc155b2f)
+  <img src="https://github.com/user-attachments/assets/7b9993e0-b12b-4f75-b235-4f9be71ece41" alt="nodejs" width="40" height="40"/>
 </p>
 
 
