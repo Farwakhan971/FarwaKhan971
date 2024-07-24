@@ -19,9 +19,7 @@
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kubernetes-logo.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  
 </p>
 
 <br />
