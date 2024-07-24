@@ -16,18 +16,7 @@
   - **AI Integration**: TensorFlow Lite
   - **Other Skills**: Proficiency in Object-Oriented Programming, experience with Git, excellent communication and teamwork skills, familiarity with CI/CD processes, and agile methodologies.
 
-- 💼 **Experience**:
-  - **Flutter Developer Intern at Eve Bytes (Apr 2024 – May 2024)**
-    - Developed and maintained cross-platform mobile applications with a 95% client satisfaction rate.
-    - Collaborated with a team of 5 developers, implementing new features, increasing app performance by 20%, and reducing bug reports by 15%.
-    - Integrated third-party APIs and services, enhancing functionality and user experience, and boosting user engagement by 10%.
-  
-  - **Flutter Developer Intern at Softnetix (Mar 2024 – Apr 2024)**
-    - Optimized hybrid applications with Flutter, enhancing performance by 25%.
-    - Managed project workflows using MVVM architecture, improving team efficiency by 30%.
-    - Utilized Firebase services for scalable database management, secure user authentication, real-time data synchronization, and efficient file storage, improving backend capabilities and data management efficiency.
-
-- 🚀 **Personal Projects**:
+- 🚀 **Significant Projects**:
   - **TradingPulse | Cryptocurrency (Sep 2023 - Jan 2024)**
     - Developed a cryptocurrency application featuring real-time updates using Firebase, achieving a 40% increase in data synchronization efficiency.
     - Integrated CoinMarketCap API for real-time insights, improving user interaction time by 45%.
@@ -44,20 +33,12 @@
 
 - 📫 How to reach me: **farwakhan061101@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/farwakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farwa-khan-profile" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: inline;">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 </p>
-
-<br />
-<br />
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farwakhan971&show_icons=true&locale=en&layout=compact" alt="farwakhan971" /></p>
